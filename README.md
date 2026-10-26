@@ -45,7 +45,7 @@ docker compose up -d db
 ```
 
 The default local database URL is:
-`postgresql://miniledger:miniledger_dev@localhost:5432/miniledger`
+`postgresql://miniledger:miniledger_dev@localhost:5433/miniledger`
 
 ## 2. Start the backend
 
